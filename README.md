@@ -27,4 +27,4 @@ Start in the top left corner, target is the bottom left corner. It's just allowe
 Start  is any cell on the very left, target is any cell on the very right of the matrix. It's just allowed to go one step up, down and right.
 
 #Level 3
-Start is again top left and target bottom right. But this time it's allowed to go one step up, down, left and right. 
+Start is again top left and target bottom right. But this time it's allowed to go one step up, down, left or right. 
