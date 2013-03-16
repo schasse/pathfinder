@@ -7,11 +7,13 @@ This is the Solution of an Exercise I did some time ago. Dependencies are Maven 
 
 ##How to use
 
-`git clone https://github.com/schasse/pathfinder
+~~~~~~
+git clone https://github.com/schasse/pathfinder
 cd pathfinder
 mvn package
 cd target
-java -jar pathfinder-0.1.jar`
+java -jar pathfinder-0.1.jar
+~~~~~~
 
 
 ##Exercise
