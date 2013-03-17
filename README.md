@@ -3,7 +3,7 @@ pathfinder
 
 dedicated to Frank ;)
 
-This is the Solution of an Exercise I did some time ago. Dependencies are Maven >=3 and Java >=1.6
+This is the Solution of an Exercise I did some time ago. Requirements are Maven >=3 and Java >=1.6
 
 ##How to use
 
